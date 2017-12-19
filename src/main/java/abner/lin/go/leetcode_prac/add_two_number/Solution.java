@@ -2,8 +2,8 @@ package abner.lin.go.leetcode_prac.add_two_number;
 
 /**
  * @author ShaoYang.Lin
- *         2017/12/15
- *         url => https://leetcode.com/problems/add-two-numbers/description/
+ * @date 2017-12-19
+ * @url https://leetcode.com/problems/add-two-numbers/description/
  */
 public class Solution {
 
