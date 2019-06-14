@@ -1,4 +1,4 @@
-package abner.lin.go.leetcode_prac.add_two_number;
+package abner.lin.leet_code.add_two_number;
 
 public class ListNode {
     public int val;

@@ -1,7 +1,7 @@
-package abner.lin.go.leetcode_prac;
+package abner.lin.leet_code;
 
-import abner.lin.go.leetcode_prac.add_two_number.ListNode;
-import abner.lin.go.leetcode_prac.add_two_number.Solution;
+import abner.lin.leet_code.add_two_number.ListNode;
+import abner.lin.leet_code.add_two_number.Solution;
 import junit.framework.TestCase;
 
 public class AddTwoNumberTest extends TestCase {

@@ -1,4 +1,4 @@
-package abner.lin.go.leetcode_prac;
+package abner.lin.leet_code;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package abner.lin.go.leetcode_prac.median_of_two_sorted_arrays;
+package abner.lin.leet_code.media_of_two_sorted_arrays;
 
 public class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
